@@ -1,0 +1,36 @@
+body {
+    font-family: 'Amatic SC', cursive;
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-position: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 150px;
+}
+p {
+    font-family: 'Caveat', cursive;
+    color: #ffffff;
+    text-align: center;
+    margin: 10px;
+    font-size: 80px;
+}
+
+.foto {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%; /* Mengubah gambar menjadi bulat */
+}
+
+
+.p {
+    font-family: 'Fredericka the Great', cursive;
+    text-align: center;
+    font-size: 80px;
+    margin-top: 20px;
+
+}
